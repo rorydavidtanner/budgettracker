@@ -14,7 +14,7 @@ SO THAT my account balance is accurate when I am traveling.
 
 # Screenshots
 
-! [budgettracker ladning screenshot] (public/icons/budgettrackerview.png)
+![budgettracker landing screenshot](public/icons/budgettrackerview.png)
 
 # Technologies 
 
